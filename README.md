@@ -1,2 +1,2 @@
 # Python_datascience
-NumPy、Pandas、Matplotlib、Seaborn...  etc
+NumPy, Pandas, Matplotlib, Seaborn, OpenCV...  etc
